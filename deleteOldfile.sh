@@ -1,1 +1,3 @@
 read -p "Sinj :" path  
+
+
