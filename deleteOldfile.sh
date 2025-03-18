@@ -1,0 +1,1 @@
+read -p "Saisissez le chemin du dossier à nettoyer :" path  
