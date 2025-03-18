@@ -1,3 +1,3 @@
-read -p "Sinj :" path  
+read -p "Sinj dreca:" path  
 
 
