@@ -1,3 +1,3 @@
 #!/bin/bash
 
-find "$chemin" -type d
+find "$1" -type d
