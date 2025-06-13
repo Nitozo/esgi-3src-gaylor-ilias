@@ -1,3 +1,3 @@
 #!/bin/bash
 
-find "$1" -type d
+find "$1" -type f -exec chmod a+r {} +
